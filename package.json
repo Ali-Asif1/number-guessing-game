@@ -1,0 +1,18 @@
+{
+  "name": "aliasif-numberguessinggame",
+  "version": "1.0.1",
+  "description": "",
+  "main": "guessGame.js",
+  "type": "module",
+  "bin": "guessGame.js",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
